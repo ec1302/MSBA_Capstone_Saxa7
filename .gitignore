@@ -1,0 +1,7 @@
+# .gitignore
+capstone_env/
+__pycache__/
+*.pyc
+*.pyo
+*.csv
+*.xlsx
